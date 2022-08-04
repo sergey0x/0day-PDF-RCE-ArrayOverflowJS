@@ -1,9 +1,10 @@
 # 0day-PDF-RCE-ArrayOverflowJS
 
-August 1st 2022 - 0day PDF RCE exploit using
+0day PDF RCE exploit using
 an array buffer overflow discovered in one of the
 JS libraries of MD-to-PDF and the way the PDF is
-rendered from markup.
+rendered from markup. Executes fine in both Adobe
+Reader and Microsoft Edge.
 
 For more information or build requests please send
 a DM to: https://t.me/sergey0x42
